@@ -52,7 +52,7 @@ Agradecimentos especiais a todos que contribuíram para este projeto:
 
 | Nome | GitHub |
 |------|--------|
-| Fabricio Pontes | [@seu-usuario](https://github.com/seu-usuario) |
+| Fabricio Pontes | [@Fabponts]([(https://github.com/Fabponts)] |
 | Você? | Faça um fork, envie um pull request e entre para a lista! |
 
 
