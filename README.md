@@ -18,16 +18,18 @@ Neste projeto, um pato é abduzido para a Lua e precisa enfrentar diversos desaf
 Para instalar o PgZero:
 ```bash
 pip install pgzero
+```
 
 ### Etapas
 ```bash
-
 git clone https://github.com/seu-usuario/moon-escape.git
-
+```
+```bash
 cd moon-escape
-
+```
+```bash
 pgzrun main.py
-
+```
 ## 🎮 Instruçao de uso
 - Setas direcionais: mover o personagem
 
